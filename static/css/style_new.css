@@ -1,0 +1,101 @@
+.navbar-inverse{background-color:#6399c0 ;border-color:#6399c0 }
+.navbar-inverse .navbar-nav>li>a:not(.btn-success):hover, .navbar-inverse .navbar-nav>li>a:not(.btn-success):focus {background-color:#277ebc;border-color:#277ebc}
+
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus, .navbar-nav>.open>a {
+	background-color:#277ebc !important;
+	border-color:#277ebc !important;
+}
+
+.navbar-toggle:hover, .navbar-toggle:focus {
+	background-color:#277ebc !important;
+	border-color:#277ebc !important;
+}
+
+.navbar-collapse {
+	border-color: #277ebc !important;
+}
+
+div.well { background-color:#EEE8F3; }
+
+div.well.well2 { background-color:#E6DEED; }
+
+.navbar-nav>li>.btn-success {
+    color: #ffffff;
+    background-color: #905f5a;
+    border-color: #905f5a;
+}
+
+.navbar-nav>li>.btn-success:hover {
+    color: #ffffff;
+    background-color: #6d4844;
+    border-color: #6d4844;
+}
+
+.btn-primary {
+    color: #ffffff;
+    background-color: #58c2d5;
+    border-color: #ffffff;
+}
+.btn-primary:hover {
+    color: #ffffff;
+    background-color: #48A0B0 ;
+    border-color: #ffffff;
+}
+.btn-primary:focus {
+    color: #ffffff;
+    background-color: #48A0B0;
+    border-color: #004d00;
+	outline: 0px;
+}
+.btn-primary:active {
+    color: #ffffff;
+    background-color: #48A0B0;
+    border-color: #004d00;
+	outline: 0px;
+}
+
+.btn-info {
+    color: #ffffff;
+    background-color: #e3c109 ;
+    border-color: #ffffff;
+}
+.btn-info:hover {
+    color: #ffffff;
+    background-color: #c2a508;
+    border-color: #ffffff;
+}
+.btn-info:focus {
+    color: #ffffff;
+    background-color: #c2a508;
+    border-color: #ffffff;
+	outline: 0px;
+}
+.btn-info:active {
+    color: #ffffff;
+    background-color: #c2a508;
+    border-color: #ffffff;
+	outline: 0px;
+}
+
+.btn-warning {
+    color: #ffffff;
+    background-color: #e58989;
+    border-color: #ffffff;
+}
+.btn-warning:hover {
+    color: #ffffff;
+    background-color: #c17474;
+    border-color: #ffffff;
+}
+.btn-warning:focus {
+    color: #ffffff;
+    background-color: #c17474;
+    border-color: #ffffff;
+	outline: 0px;
+}
+.btn-warning:active {
+    color: #ffffff;
+    background-color: #c17474;
+    border-color: #ffffff;
+	outline: 0px;
+}
